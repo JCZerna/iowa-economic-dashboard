@@ -19,3 +19,7 @@ A high-performance **R Shiny** application designed to visualize and analyze une
 1. Clone this repo.
 2. Open in RStudio and ensure `pacman` is installed.
 3. Click **Run App**.
+
+### 🚀 Live Demo
+You can interact with the live dashboard here:  
+👉 [Iowa Economic Insight Dashboard](https://jczerna-data-labs.shinyapps.io/02-Standard-Analytics/)
